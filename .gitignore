@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
+# Source files from the test assignment are not published.
+data/*.csv
+!data/README.md
