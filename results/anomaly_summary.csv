@@ -1,0 +1,8 @@
+anomaly;criterion;devices;events
+Negative consumption;<= -0.001 m3/day;79;190
+Absolute spike;> 1.5 m3/day;232;3945
+Relative spike;>= 5x usual and > 0.5 m3/day;362;1567
+Physically unrealistic;> 20 m3/day;59;318
+Leak candidate;> 0.001 m3/day for >= 90 consecutive days;307;
+Zero consumption with packets;0 m3/day for >= 30 consecutive days;694;
+Step change;"30d before/after; >=3x and >=0.1 m3/day";121;
