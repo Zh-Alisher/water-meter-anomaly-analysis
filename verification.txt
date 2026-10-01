@@ -1,0 +1,15 @@
+Devices: 3000
+Daily adjacent pairs: 616414; skipped gaps: 74029
+1) Negative: 79 devices / 190 days
+2) Absolute spikes: 232 devices / 3945 days
+   Relative spikes: 362 devices / 1567 days
+3) Unrealistic: 59 devices / 318 days
+4) Leak candidates: 307 devices
+5) Zero with packets: 694 devices
+6) Step changes: 121 devices
+7) Magnet: 1784 eligible days; >=50% drop 17.94%
+   Non-magnet control: >=50% drop 16.82%
+8) Local magnet candidates: 22 devices
+   Chronic high consumption: 6 devices
+
+Validation note: results were regenerated from the original CSV files after the final code changes.
